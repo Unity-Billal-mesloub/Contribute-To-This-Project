@@ -324,7 +324,7 @@ git push -u origin $Username-card
 
 ### স্বীকৃতি
 
-এই প্রজেক্টটি [Roshan Jossey's](https://github.com/Unity-Educational-Formation) এর দুর্দান্ত টিউটোরিয়াল সহ দুর্দান্ত [first-contributions](https://github.com/Unity-Educational-Formation/first-contributions) প্রকল্প দ্বারা ব্যাপকভাবে প্রভাবিত।
+এই প্রজেক্টটি [Unity-Educational-Formation](https://github.com/Unity-Educational-Formation) এর দুর্দান্ত টিউটোরিয়াল সহ দুর্দান্ত [first-contributions](https://github.com/Unity-Educational-Formation/first-contributions) প্রকল্প দ্বারা ব্যাপকভাবে প্রভাবিত।
 
 ### রক্ষণাবেক্ষণকারী তথ্যঃ
 
