@@ -1,14 +1,12 @@
 # [Contribute To This Project](https://syknapse.github.io/Contribute-To-This-Project/)
 
-[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Contribute%20To%20This%20Project.%20An%20easy%20project%20for%20first-time%20contributors,%20with%20a%20full%20tutorial.%20By%20@Syknapse&url=https://github.com/Syknapse/Contribute-To-This-Project&hashtags=100DaysofCode 'Tweet this project')
-
 [![Discord](https://badgen.net/discord/online-members/tWkvS4ueVF?label=Join%20Our%20Discord%20Server&icon=discord)](https://discord.gg/tWkvS4ueVF 'Join our Discord server!')
 
 ## Wprowadzenie
 
 To tutorial, który pomoże początkującym kontrybutorom uczestniczyć w prostym i łatwym projekcie.
 
-Ten tutorial jest również dostępny w [innych językach](https://github.com/Syknapse/Contribute-To-This-Project/tree/master/translations) (tłumaczenia mile widziane).
+Ten tutorial jest również dostępny w [innych językach](https://github.com/Unity-Billal-mesloub/Contribute-To-This-Project/tree/main/translations) (tłumaczenia mile widziane).
 
 ### Cele
 
@@ -43,9 +41,9 @@ Stworzysz kopię szablonu karty w pliku HTML i uzupełnisz ją informacjami o so
 
 Najpierw przygotujmy się do pracy
 
-1. Zaloguj się na GitHub. Jeśli nie masz konta, [dołącz do GitHub](https://github.com/join). Przed kontynuowaniem zalecam zapoznanie się z [GitHub Hello World tutorial](https://guides.github.com/activities/hello-world/).
+1. Zaloguj się na GitHub. Jeśli nie masz konta, [dołącz do GitHub](https://github.com/Unity-Billal-mesloub). Przed kontynuowaniem zalecam zapoznanie się z [GitHub Hello World tutorial](https://guides.github.com/activities/hello-world/).
 2. Pobierz [GitHub Desktop app](https://desktop.github.com/).
-   - Ewentualnie, jeśli czujesz się komfortowo używając Gita w wierszu poleceń, możesz to zrobić (tutaj jest [first-contributions](https://github.com/Syknapse/first-contributions), podobny projekt, który może służyć jako przewodnik po potrzebnych poleceniach). LUB
+   - Ewentualnie, jeśli czujesz się komfortowo używając Gita w wierszu poleceń, możesz to zrobić (tutaj jest [first-contributions](https://github.com/Unity-Educational-Formation/first-contributions), podobny projekt, który może służyć jako przewodnik po potrzebnych poleceniach). LUB
    - Jeśli używasz [VS Code](https://code.visualstudio.com/ 'Visual Studio Code website') ma ono wbudowaną obsługę Git i pozwala robić to, co potrzebujemy, bezpośrednio z edytora.
    - Jednak najprostszym i najłatwiejszym sposobem wykonania tego tutorialu jest GitHub Desktop.
 
@@ -65,7 +63,7 @@ _Przewidywany czas: Mniej niż 30 minut_.
 
 - Celem jest wykonanie kopii tego projektu i umieszczenie jej na swoim koncie.
 - Projekt na GitHub jest nazywany repozytorium (repo), a fork jest jego kopią.
-- Upewnij się, że jesteś na [głównej stronie](https://github.com/Syknapse/Contribute-To-This-Project 'https://github.com/Syknapse/Contribute-To-This-Project') tego repozytorium.
+- Upewnij się, że jesteś na [głównej stronie](https://github.com/Unity-Billal-mesloub/Contribute-To-This-Project 'https://github.com/Unity-Billal-mesloub/Contribute-To-This-Project') tego repozytorium.
 
 | <ul><li>Kliknij przycisk _Fork_</li></ul> | ![Fork](/readme-only/fork.png "click on 'Fork'") |
 | :---------------------------------------- | ----------------------------------------------: |
@@ -260,19 +258,15 @@ Obiecuję, że postaram się jak najszybciej przejrzeć je i scalić z głównym
 - Wróć za jakiś, aby sprawdzić, czy Twój PR został złączony z projektem.
 - Powinieneś otrzymać wiadomość e-mail od GitHub, gdy Twoje zmiany zostaną zatwierdzone lub jeśli będą wymagane dodatkowe zmiany. A kiedy PR zostanie ostatecznie połączony z masterem, Twoja karta zostanie dodana.
 - Jeśli uważasz, że ten projekt jest **przydatny** daj :star: gwiazdkę :star: u góry strony i **Tweet** o tym, aby pomóc w rozprzestrzenianiu informacji [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Contribute%20To%20This%20Project.%20An%20easy%20project%20for%20first-time%20contributors,%20with%20a%20full%20tutorial.%20By%20@Syknapse&url=https://github.com/Syknapse/Contribute-To-This-Project&hashtags=100DaysofCode 'Tweet this project').
-- Możesz **obserwować mnie** i kontaktować się ze mną na [Twitterze](https://twitter.com/Syknapse '@Syknapse') lub [korzystając z tych opcji](https://syknapse.github.io/Syk-Houdeib/#contact 'My contact section | Portfolio').
 - Jest to projekt open source, więc oprócz wgrania swojej karty, możesz pomóc w naprawianiu błędów, wprowadzaniu popraw i nowych możliwości. Otwórz [problem](https://help.github.com/articles/creating-an-issue/ 'Mastering Issues | GitHub Guides') lub wyślij nowy [pull request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/ 'Creating a pull request from a fork | GitHub Help').
 - **Dziękuję za wgrywanie kontrybucji do tego projektu**. Teraz możesz śmiało spróbować wgrywać zmiany do innych projektów; szukaj etykiety ![Good First Issue](https://user-images.githubusercontent.com/29199184/33852733-e23b7070-debb-11e7-907b-4e7a03aad436.png) dla możliwości wgrywania zmian przyjaznych dla początkujących.
 - Szukam również współpracowników, którzy pomogliby mi w recenzowaniu i łączeniu PR. Jeśli chcesz uzyskać bardziej zaawansowaną praktykę Git, wyślij mi wiadomość na Twitterze i przeczytaj [przewodnik współpracownika](collaborator_guide.md).
 
 ## Podziękowania
 
-Na ten projekt duży wpływ ma świetny projekt [first-contributions](https://github.com/Roshanjossey/first-contributions) [Roshana Josseya](https://github.com/Roshanjossey) z jego znakomitym tutorialem.
+Na ten projekt duży wpływ ma świetny projekt [first-contributions](https://github.com/Unity-Educational-Formation/first-contributions) [Roshana Josseya](https://github.com/Unity-Educational-Formation) z jego znakomitym tutorialem.
 
-Jest on również szczególnie zainspirowany przez świetną społeczność [#GoogleUdacityScholars](https://twitter.com/hashtag/GoogleUdacityScholars?src=hash) The Google Challenge Scholarship: Front-End Web Dev, class of 2017 Europe.
+## Licenc
 
-## Licencja
+[Licencja MIT](https://github.com/Unity-Billal-mesloub/Contribute-To-This-Project/blob/master/LICENSE)
 
-[Licencja MIT](https://github.com/Syknapse/Contribute-To-This-Project/blob/master/LICENSE)
-
-[Powrót na górę &uparrow;](#wprowadzenie)
