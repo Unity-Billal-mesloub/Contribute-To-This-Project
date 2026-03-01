@@ -1,16 +1,10 @@
 # [Doprinesi ovom projektu](https://syknapse.github.io/Contribute-To-This-Project/)
 
-[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Contribute%20To%20This%20Project.%20An%20easy%20project%20for%20first-time%20contributors,%20with%20a%20full%20tutorial.%20By%20@Syknapse&url=https://github.com/Syknapse/Contribute-To-This-Project&hashtags=100DaysofCode 'Tweet this project')
-
 [![Discord](https://badgen.net/discord/online-members/tWkvS4ueVF?label=Join%20Our%20Discord%20Server&icon=discord)](https://discord.gg/tWkvS4ueVF 'Join our Discord server!')
-
-> **Objava:** Želite da pomognete razvoj ovog projekta? Ako ste zainteresovani posaljite mi poruku na Tviteru. [Twitter](https://twitter.com/Syknapse) i procitajte vodič [vodič za održavaoca projekta](maintainer_guide.md).
-
-## Uvod
 
 Ovo je tutorijal koji pomaže onima koji prvi put žele da učestvuju u jednostavnom i lakom projektu.
 
-Ovaj tutorijal je takođe dostupan [drugi jezici](https://github.com/Syknapse/Contribute-To-This-Project/tree/master/translations) ([Engleski](https://github.com/Syknapse/Contribute-To-This-Project/blob/master/README.MD), [Portugalski](https://github.com/Syknapse/Contribute-To-This-Project/blob/master/translations/PORTUGUESE.md), [Spanski](https://github.com/Syknapse/Contribute-To-This-Project/blob/master/translations/SPANISH.md), and [Italijanski](https://github.com/Syknapse/Contribute-To-This-Project/blob/master/translations/ITALIAN.md) trenutno. Prevodi su veoma dobrodošli.).
+Ovaj tutorijal je takođe dostupan [drugi jezici](https://github.com/Unity-Billal-mesloub/Contribute-To-This-Project/tree/main/translations) ([Engleski](https://github.com/Unity-Billal-mesloub/Contribute-To-This-Project/blob/main/README.MD), [Portugalski](https://github.com/Unity-Billal-mesloub/Contribute-To-This-Project/blob/main/translations/PORTUGUESE.md), [Spanski](https://github.com/Unity-Billal-mesloub/Contribute-To-This-Project/blob/main/translations/SPANISH.md), and [Italijanski](https://github.com/Unity-Billal-mesloub/Contribute-To-This-Project/blob/main/translations/ITALIAN.md) trenutno. Prevodi su veoma dobrodošli.).
 
 ### Ciljevi
 
@@ -45,9 +39,9 @@ Napravićete kopiju šablona kartice unutar index.html fajla i prilagoditi je so
 
 Prvo hajde sve da podesimo za posao!
 
-1. Ulogujte se na svoj GitHub nalog. Ako još uvek nemate nalog [pridruži se GitHub'u](https://github.com/join). Preporučujem da pogledate [GitHub Hello World tutorial](https://guides.github.com/activities/hello-world/) pre nego što nastavite.
+1. Ulogujte se na svoj GitHub nalog. Ako još uvek nemate nalog [pridruži se GitHub'u](https://github.com/Unity-Educational-Formation). Preporučujem da pogledate [GitHub Hello World tutorial](https://guides.github.com/activities/hello-world/) pre nego što nastavite.
 1. Skinite [GitHub Desktop aplikaciju](https://desktop.github.com/).
-   - Alternativni ako Vam je prijatnije da koristite Git na komadnoj liniji možete i tako (ovdje su [prvi-doprinosi](https://github.com/Syknapse/first-contributions), sličan projekat u kojem možete videti neophodne komande). ILI
+   - Alternativni ako Vam je prijatnije da koristite Git na komadnoj liniji možete i tako (ovdje su [prvi-doprinosi](https://github.com/Unity-Educational-Formation/first-contributions), sličan projekat u kojem možete videti neophodne komande). ILI
    - Ako koristie [VS Code](https://code.visualstudio.com/ 'Visual Studio Code website') dolazi sa integrisanim Gitom i omogućava Vam da uradite ono što nam je potrebno direktno iz editora.
    - Međutim najjednostavniji i najlakši način da pratite ovaj tutorijal je korišćenhe GitHub Desktop aplikacije.
 
@@ -67,7 +61,7 @@ _Procenjeno vreme: Manje od 30 minuta_.
 
 - Ovde je cilj da napravite kopiju ovog projekta i postavite je na svoj nalog.
 - Repozitorijum (repo) je način na koji se projekat naziva na GitHub-u, a fork je njegova kopija.
-- Uverite se da ste na [glavnoj stranici](https://github.com/Syknapse/Contribute-To-This-Project 'https://github.com/Syknapse/Contribute-To-This-Project') of this repo.
+- Uverite se da ste na [glavnoj stranici](https://github.com/Unity-Billal-mesloub/Contribute-To-This-Project 'https://github.com/Unity-Billal-mesloub/Contribute-To-This-Project') of this repo.
 
 | <ul><li>Kliknite na _Fork_ dugme</li></ul> | ![Fork](/readme-only/fork.png "klikni na 'Fork'") |
 | :----------------------------------------- | ------------------------------------------------: |
@@ -261,20 +255,15 @@ Obećavam da ću pokušati da pregledam i spojim što je pre moguće, ali ovo
 
 - Nakon nekog vremena proverite da li imate spojeni zahtev za povlačenje.
 - Trebalo bi da dobijete mejl u od GitHub-a kada vaše promene budu odobrene ili ako se zahtevaju dodatne promene. A kada se PR konačno spoji sa master granom, vaša kartica je dodata.
-- Ako smatrate da je ovaj projekat **koristan**, dajte mu :star: zvezda :star: na vrhu stranice i **Tvitujte** o njemu da biste pomogli u širenju reči [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Contribute%20To%20This%20Project.%20An%20easy%20project%20for%20first-time%20contributors,%20with%20a%20full%20tutorial.%20By%20@Syknapse&url=https://github.com/Syknapse/Contribute-To-This-Project&hashtags=100DaysofCode 'Tweet this project')
-- Možete me **pratiti** i ostati u kontaktu na [Twitter](https://twitter.com/Syknapse '@Syknapse') or [using any of these other options](https://syknapse.github.io/Syk-Houdeib/#contact 'My contact section | Portfolio')
 - Ovo je projekat otvorenog koda, tako da osim doprinosa Vašoj kartici, dobrodošli ste da pomognete u ispravljanju grešaka, poboljšanjima ili novim funkcijama. Otvorite [issue](https://help.github.com/articles/creating-an-issue/ 'Mastering Issues | GitHub Guides') ili pošaljite novu pull zahtev [pull request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/ 'Creating a pull request from a fork | GitHub Help')
-- Da biste poboljšali našu zajednicu, pogledajte Github [Diskusije](https://github.com/Syknapse/Contribute-To-This-Project/discussions) tab lociran pored Pull Requests. Ova oblast je mesto da se predstavite, uđete u dublje diskusije o otvorenom kodu i komunicirate sa održavaocima projekta. Hoćete li nam pomoći da izgradimo ovu funkciju i poboljšamo našu zajednicu? -**Hvala što ste doprineli ovom projektu**. Sada možete nastaviti i pokušati da doprinesete drugim projektima; potražite ![Good First Issue](https://user-images.githubusercontent.com/29199184/33852733-e23b7070-debb-11e7-907b-4e7a03aad436.png) oznaku za opcije doprinosa prilagođene početnicima.
+- Da biste poboljšali našu zajednicu, pogledajte Github [Diskusije](https://github.com/Unity-Billal-mesloub/Contribute-To-This-Project/discussions) tab lociran pored Pull Requests. Ova oblast je mesto da se predstavite, uđete u dublje diskusije o otvorenom kodu i komunicirate sa održavaocima projekta. Hoćete li nam pomoći da izgradimo ovu funkciju i poboljšamo našu zajednicu? -**Hvala što ste doprineli ovom projektu**. Sada možete nastaviti i pokušati da doprinesete drugim projektima; potražite ![Good First Issue](https://user-images.githubusercontent.com/29199184/33852733-e23b7070-debb-11e7-907b-4e7a03aad436.png) oznaku za opcije doprinosa prilagođene početnicima.
 - Takođe tražim saradnike da mi pomognu u pregledu i spajanju PR-a. Ako želite da dobijete napredniju Git praksu, pošaljite mi DM na Tvitter-u i pročitajte [maintainer's guide](maintainer_guide.md).
 
 ## Priznanja
 
-Na ovaj projekat veliki uticaj je imao [Roshan Jossey's](https://github.com/Roshanjossey) odlični [first-contributions](https://github.com/Roshanjossey/first-contributions) projekat sa sjajnim tutorijalom.
-
-Takođe je posebno inspirisano velikom zajednicom u okolini [#GoogleUdacityScholars](https://twitter.com/hashtag/GoogleUdacityScholars?src=hash) The Google Challenge Scholarship: Front-End Web Dev, class of 2017 Europe.
+Na ovaj projekat veliki uticaj je imao [Roshan Jossey's](https://github.com/Unity-Educational-Formation) odlični [first-contributions](https://github.com/Unity-Educational-Formation/first-contributions) projekat sa sjajnim tutorijalom.
 
 ## Licenca
 
-[MIT License](https://github.com/Syknapse/Contribute-To-This-Project/blob/master/LICENSE)
+[MIT License](https://github.com/Unity-Billal-mesloub/Contribute-To-This-Project/blob/master/LICENSE)
 
-[Vrati se na početak &uparrow;](#uvod)
