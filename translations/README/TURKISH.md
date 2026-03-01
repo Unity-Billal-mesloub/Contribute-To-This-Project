@@ -1,16 +1,16 @@
 # [Bu Projeye Katkıda Bulunun](https://syknapse.github.io/Contribute-To-This-Project/)
 
-[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Contribute%20To%20This%20Project.%20An%20easy%20project%20for%20first-time%20contributors,%20with%20a%20full%20tutorial.%20By%20@Syknapse&url=https://github.com/Syknapse/Contribute-To-This-Project&hashtags=100DaysofCode 'Tweet this project')
+[![Tweet]](https://github.com/Unity-Billal-mesloub)=https://github.com/Unity-Billal-mesloub/Contribute-To-This-Project&hashtags=100DaysofCode 'Tweet this project')
 
 [![Discord](https://badgen.net/discord/online-members/tWkvS4ueVF?label=Join%20Our%20Discord%20Server&icon=discord)](https://discord.gg/tWkvS4ueVF 'Join our Discord server!')
 
-> **Duyuru:** Bu projede yönetici olmak ve projenin sürdürülmesine yardımcı olmak ister misiniz?? Eğer ilgileniyorsanız, bana [Twitter](https://twitter.com/Syknapse)'dan DM atabilir ve [klavuz](https://github.com/Syknapse/Contribute-To-This-Project/blob/master/maintainer_guide.md)'u inceleyebilirsiniz.
+> **Duyuru:** Bu projede yönetici olmak ve projenin sürdürülmesine yardımcı olmak ister misiniz?? Eğer ilgileniyorsanız, [klavuz](https://github.com/Unity-Billal-mesloub/Contribute-To-This-Project/blob/master/maintainer_guide.md)'u inceleyebilirsiniz.
 
 ## Giriş
 
 Bu eğitim aracılığıyla Github üzerinde ilk kez katkıda bulunacak kişilerin, basit ve kolay bir projeye katılmalarına yardımcı olunması amaçlanmıştır.
 
-Bu eğitim başka dillerde de mevcuttur [diğer diller](https://github.com/Syknapse/Contribute-To-This-Project/tree/master/translations) (Şimdilik [İngilizce](https://github.com/Syknapse/Contribute-To-This-Project), [Portekizce](https://github.com/Syknapse/Contribute-To-This-Project/blob/master/translations/PORTUGUESE.md), [İspanyolca](https://github.com/Syknapse/Contribute-To-This-Project/blob/master/translations/SPANISH.md), ve [İtalyanca](https://github.com/Syknapse/Contribute-To-This-Project/blob/master/translations/ITALIAN.md). Bu konuda çeviri destekleriniz memnuniyetle karşılanır).
+Bu eğitim başka dillerde de mevcuttur [diğer diller](https://github.com/Unity-Billal-mesloub/Contribute-To-This-Project/tree/main/translations) (Şimdilik [İngilizce](https://github.com/Unity-Billal-mesloub/Contribute-To-This-Project), [Portekizce](https://github.com/Unity-Billal-mesloub/Contribute-To-This-Project/blob/main/translations/PORTUGUESE.md), [İspanyolca](https://github.com/Unity-Billal-mesloub/Contribute-To-This-Project/blob/main/translations/SPANISH.md), ve [İtalyanca](https://github.com/Unity-Billal-mesloub/Contribute-To-This-Project/blob/main/translations/ITALIAN.md). Bu konuda çeviri destekleriniz memnuniyetle karşılanır).
 
 ### Hedefler
 
@@ -45,9 +45,9 @@ HTML dosyasının içindeki kart şablonunun bir kopyasını oluşturacak ve ken
 
 İlk önce uygulamamızı gerçekleştirmek için kurulumu yapalım
 
-1. GitHub hesabınıza giriş yapın. Henüz bir hesabınız yoksa [Github'a kayıt ol](https://github.com/join). Devam etmeden önce [GitHub Merhaba Dünya eğitimi](https://guides.github.com/activities/hello-world/)ni yapmanızı tavsiye ediyoruz.
+1. GitHub hesabınıza giriş yapın. Henüz bir hesabınız yoksa [Github'a kayıt ol](https://github.com/Unity-Educational-Formation). Devam etmeden önce [GitHub Merhaba Dünya eğitimi](https://guides.github.com/activities/hello-world/)ni yapmanızı tavsiye ediyoruz.
 2. [GitHub Masaüstü](https://desktop.github.com/) uygulamasını indirin.
-   - • Alternatif olarak, Git'i komut satırında kullanmakta rahatsanız, yapabileceğiniz [ilk katkılar](https://github.com/Syknapse/first-contributions), gerekli komutlar için rehber olarak hizmet edebilecek benzer bir projedir. VEYA
+   - • Alternatif olarak, Git'i komut satırında kullanmakta rahatsanız, yapabileceğiniz [ilk katkılar](https://github.com/Unity-Educational-Formation/first-contributions), gerekli komutlar için rehber olarak hizmet edebilecek benzer bir projedir. VEYA
    - [VS Code](https://code.visualstudio.com/ 'Visual Studio Code website') kullanıyorsanız, VS Code entegre Git ile birlikte gelir ve ihtiyacımız olanı doğrudan düzenleyiciden yapmanızı sağlar.
    - Ancak bu eğitimi uygulamanın en basit ve en kolay yolu GitHub Desktop kullanmaktır.
 
@@ -67,7 +67,7 @@ _Tahmini süre: 30 dakikadan az_.
 
 - Buradaki amaç, bu projenin bir kopyasını oluşturmak ve hesabınız bünyesine yerleştirmektir.
 - GitHub'da bir proje depo(repo) olarak adlandırılmakta, çatal(fork) ise bunun kopyalanmasıdır.
-- Bu reponun [ana sayfa](https://github.com/Syknapse/Contribute-To-This-Project 'https://github.com/Syknapse/Contribute-To-This-Project')'sında (main) olduğunuzdan emin olun.
+- Bu reponun [ana sayfa](https://github.com/Unity-Billal-mesloub/Contribute-To-This-Project 'https://github.com/Unity-Billal-mesloub/Contribute-To-This-Project')'sında (main) olduğunuzdan emin olun.
 
 | <ul><li>Fork butonuna basın</li></ul> | ![Fork](/readme-only/fork.png "klikni na 'Fork'") |
 | :------------------------------------ | ------------------------------------------------: |
@@ -98,7 +98,7 @@ _Tahmini süre: 30 dakikadan az_.
 ### Adım 3: Yeni bir şube(branch) oluşturun
 
 - Depo klonlandıktan ve GitHub masaüstünde açıldıktan sonra yeni bir şube(branch) oluşturma zamanı gelmiştir.
-- Dal(branch), değişikliklerinizi projenin `Master` adlı ana bölümünden ayrı tutmanın bir yoludur. Örneğin, işler ters giderse ve değişikliklerinizden memnun değilseniz, şubeyi silmeniz durumunda ana proje etkilenmeyecektir.
+- Dal(branch), değişikliklerinizi projenin `Main` adlı ana bölümünden ayrı tutmanın bir yoludur. Örneğin, işler ters giderse ve değişikliklerinizden memnun değilseniz, şubeyi silmeniz durumunda ana proje etkilenmeyecektir.
 
 | <ul><li>_Mevcut şube_'ye(current) tıklayın</li><li>Ardından _Yeni_'ye tıklayın</li></ul> | ![Create branch](/readme-only/branch-new.PNG "Klikni na 'Branch', potom 'New'") |
 | :--------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------: |
@@ -117,7 +117,7 @@ _Tahmini süre: 30 dakikadan az_.
 - Şimdi ana daldan ayrı yeni bir dal oluşturdunuz.
 - Sonraki adımlar için bu dalda çalıştığınızdan emin olun. Bulunduğunuz şubenin adını GitHub masaüstü uygulamasının üst orta kısmında _Current branch_ şeklinde yazdığını göreceksiniz.
 
-**Lütfen `master` branch üzerinde çalışmayın**
+**Lütfen `main` branch üzerinde çalışmayın**
 
 ---
 
@@ -260,21 +260,19 @@ En kısa zamanda incelemeye ve birleştirmeye çalışacağıma söz veriyorum a
 ## Sonraki adımlar
 
 - Merge edilmiş Çekme Talebinizi(pull request) kontrol etmek için bir süre sonra tekrar gelin.
-- Değişiklikleriniz onaylandığında veya ek değişiklikler istendiğinde GitHub'dan bir e-posta almalısınız. Ve aynı zamanda PR nihayet master ile birleştiğinde ve kartınız eklendiğinde de.
-- Bu projeyi faydalı bulduysanız, lütfen sayfanın üst kısmına bir ⭐ yıldız ⭐ verin ve projenin yayılmasına yardımcı olmak için bu konuda **Tweet** atın.[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Contribute%20To%20This%20Project.%20An%20easy%20project%20for%20first-time%20contributors,%20with%20a%20full%20tutorial.%20By%20@Syknapse&url=https://github.com/Syknapse/Contribute-To-This-Project&hashtags=100DaysofCode 'Tweet this project')
-- Beni **takip edebilir** ve [Twitter](https://twitter.com/Syknapse '@Syknapse') veya [bu diğer seçenekler](https://syknapse.github.io/Syk-Houdeib/#contact 'My contact section | Portfolio')den herhangi birini kullanarak iletişime geçebilirsiniz.
-- Bu açık kaynaklı bir projedir, dolayısıyla kartınız ile katkıda bulunmanın yanı sıra hataları düzeltmeye, iyileştirmelere veya yeni özellikleri eklemeye yardımcı olabilirsiniz. Bir [issue](https://help.github.com/articles/creating-an-issue/ 'Mastering Issues | GitHub Guides') açabilir ve [pull request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/ 'Creating a pull request from a fork | GitHub Help') gönderebilirsiniz.
-- Topluluğumuzu geliştirmeye yardımcı olmak için çekme isteklerinin yanında bulunan Github [Tartışmalar](https://github.com/Syknapse/Contribute-To-This-Project/discussions) sekmesine bakabilirsiniz. Bu alan kendinizi tanıtabileceğiniz, açık kaynak hakkında daha derin tartışmalara girebileceğiniz ve proje sorumluları ile iletişim kurabileceğiniz bir yerdir. Bu özelliği geliştirmemize ve topluluğumuzu geliştirmemize yardım edecek misiniz? -**Bu projeye katkıda bulunduğunuz için teşekkür ederiz**. Şimdi devam edebilir ve diğer projelere katkıda bulunmayı deneyebilirsiniz; acemi dostu katkı seçenekleri için [Good First Issue](https://user-images.githubusercontent.com/29199184/33852733-e23b7070-debb-11e7-907b-4e7a03aad436.png) etiketini arayabilirsiniz.
+- Değişiklikleriniz onaylandığında veya ek değişiklikler istendiğinde GitHub'dan bir e-posta almalısınız. Ve aynı zamanda PR nihayet main ile birleştiğinde ve kartınız eklendiğinde de.
+
+- Bu açık kaynaklı bir projedir, dolayısıyla kartınız ile katkıda bulunmanın yanı sıra hataları düzeltmeye, iyileştirmelere veya yeni özellikleri eklemeye yardımcı olabilirsiniz. Bir [issue](https://help.github.com/articles/creating-an-issue/ 'maining Issues | GitHub Guides') açabilir ve [pull request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/ 'Creating a pull request from a fork | GitHub Help') gönderebilirsiniz.
+- Topluluğumuzu geliştirmeye yardımcı olmak için çekme isteklerinin yanında bulunan Github [Tartışmalar](https://github.com/Unity-Billal-mesloub/Contribute-To-This-Project/discussions) sekmesine bakabilirsiniz. Bu alan kendinizi tanıtabileceğiniz, açık kaynak hakkında daha derin tartışmalara girebileceğiniz ve proje sorumluları ile iletişim kurabileceğiniz bir yerdir. Bu özelliği geliştirmemize ve topluluğumuzu geliştirmemize yardım edecek misiniz? -**Bu projeye katkıda bulunduğunuz için teşekkür ederiz**. Şimdi devam edebilir ve diğer projelere katkıda bulunmayı deneyebilirsiniz; acemi dostu katkı seçenekleri için [Good First Issue](https://user-images.githubusercontent.com/29199184/33852733-e23b7070-debb-11e7-907b-4e7a03aad436.png) etiketini arayabilirsiniz.
 - Ayrıca, PR'leri gözden geçirme ve birleştirme konusunda bana yardım edecek ortak çalışma arkadaşları arıyorum. Daha gelişmiş Git alıştırması yapmak istiyorsanız, lütfen bana Twitter'dan bir DM atın ve [maintainer's guide](maintainer_guide.md) kaynağını okuyun.
 
 ## Teşekkür
 
-Bu proje büyük ölçüde [Roshan Jossey](https://github.com/Roshanjossey)'in mükemmel eğitimlere sahip [first-conributions](https://github.com/Roshanjossey/first-contributions) projesinden esinlenmiştir.
+Bu proje büyük ölçüde [Unity-Educational-Formation](https://github.com/Unity-Educational-Formation)'in mükemmel eğitimlere sahip [first-conributions](https://github.com/Unity-Educational-Formation/first-contributions) projesinden esinlenmiştir.
 
-Ayrıca, özellikle [#GoogleUdacityScholars](https://twitter.com/hashtag/GoogleUdacityScholars?src=hash) The Google Challenge Scholarship: Front-End Web Dev, 2017 Avrupa kümesindeki büyük topluluktan ilham almıştır.
 
 ## Lisans
 
-[MIT License](https://github.com/Syknapse/Contribute-To-This-Project/blob/master/LICENSE)
+[MIT License](https://github.com/Unity-Billal-mesloub/Contribute-To-This-Project/blob/main/LICENSE)
 
 [Başa dön &uparrow;](#Giriş)
