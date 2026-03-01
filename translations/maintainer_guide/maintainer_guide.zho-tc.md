@@ -62,10 +62,8 @@ npx prettier --write index.html
 
 它應該試著格式化 (format) 檔案，而如果它不能的話，它會顯示錯誤。有時候缺少一個標籤或是壞掉的 HTML 會被合併，而這是一個找到並修復它們的好方法。
 
-如果你有疑問，你隨時可以在 PR 中 @ 我或是其他維護者，或是在[推特](https://twitter.com/Syknapse)上私訊我。
-
+如果你有疑問，你隨時可以在 PR 中 @ 我或是其他維護者，
 ## 加入我們
 
-加入我們來一起幫住這個專案成長。在[推特](https://twitter.com/Syknapse)上聯絡我並傳給我你的 GitHub 名稱，好讓我加入你。你也可以點下面的按鈕加入我們的 Discord 社群：
 
 [![Discord](https://badgen.net/discord/online-members/tWkvS4ueVF?label=Join%20Our%20Discord%20Server&icon=discord)](https://discord.gg/tWkvS4ueVF '加入我們的 Discord 伺服器！')
