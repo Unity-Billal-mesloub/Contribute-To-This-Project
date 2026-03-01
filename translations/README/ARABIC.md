@@ -1,16 +1,14 @@
 # [ساهم في هذا المشروع](https://syknapse.github.io/Contribute-To-This-Project/)
 
-[![غرد](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=%D8%B3%D8%A7%D9%87%D9%85%20%D9%81%D9%8A%20%D9%87%D8%B0%D8%A7%20%D8%A7%D9%84%D9%85%D8%B4%D8%B1%D9%88%D8%B9.%20%D9%85%D8%B4%D8%B1%D9%88%D8%B9%20%D8%B3%D9%87%D9%84%20%D9%84%D9%84%D9%85%D8%B3%D8%A7%D9%87%D9%85%D9%8A%D9%86%20%D9%84%D8%A3%D9%88%D9%84%20%D9%85%D8%B1%D8%A9%D8%8C%20%D9%85%D8%B9%20%D8%AF%D9%84%D9%8A%D9%84%20%D9%85%D9%81%D8%B5%D9%84%20%D8%A8%D8%A7%D9%84%D8%AE%D8%B7%D9%88%D8%A7%D8%AA.%20%D9%85%D9%82%D8%AF%D9%85%20%D9%85%D9%86%20%40Syknapse%20https%3A%2F%2Fgithub.com%2FSyknapse%2FContribute-To-This-Project%20%23100DaysofCode%0A 'غرد عن هذا المشروع')
+[![غرد]
 
 [![Discord](https://badgen.net/discord/online-members/tWkvS4ueVF?label=Join%20Our%20Discord%20Server&icon=discord)](https://discord.gg/tWkvS4ueVF 'Join our Discord server!')
-
-> **إعلان:** أترغب في أن تكون مشرفاً في هذا المشروع وتعين على إستمراريته؟ إن كنت مهتما أرسل لي رسالة خاصة على [Twitter](https://twitter.com/Syknapse) واقرأ [دليل المشرفين](maintainer_guide.md).
 
 ## مقدمة
 
 هذا دليل تعليمي لمساعدة المساهمين لأول مرة للمشاركة في مشروع سهل وبسيط.
 
-هذا الدليل متوفر أيضاً [بلغات أخرى](https://github.com/Syknapse/Contribute-To-This-Project/tree/master/translations) ([البرتغالية](https://github.com/Syknapse/Contribute-To-This-Project/blob/master/translations/PORTUGUESE.md), [الإسبانية](https://github.com/Syknapse/Contribute-To-This-Project/blob/master/translations/SPANISH.md), و [الإيطالية](https://github.com/Syknapse/Contribute-To-This-Project/blob/master/translations/ITALIAN.md) في الوقت الحالي. نرحب بالترجمات).
+هذا الدليل متوفر أيضاً [بلغات أخرى](https://github.com/Unity-Billal-mesloub/Contribute-To-This-Project/tree/main/translations) ([البرتغالية](https://github.com/Unity-Billal-mesloub/Contribute-To-This-Project/blob/main/translations/PORTUGUESE.md), [الإسبانية](https://github.com/Unity-Billal-mesloub/Contribute-To-This-Project/blob/main/translations/SPANISH.md), و [الإيطالية](https://github.com/Unity-Billal-mesloub/Contribute-To-This-Project/blob/main/translations/ITALIAN.md) في الوقت الحالي. نرحب بالترجمات).
 
 ### الأهداف
 
@@ -46,9 +44,9 @@
 
 في البداية، لنتجهز لبدء العمل
 
-1. سجل الدخول لحسابك على GitHub. إن لم تقم بعد بإنشاء حساب فقم [بالإنضمام](https://github.com/join). أنصحك باتباع [دليل البداية من GitHub](https://guides.github.com/activities/hello-world/) قبل الإستمرار.
+1. سجل الدخول لحسابك على GitHub. إن لم تقم بعد بإنشاء حساب فقم [بالإنضمام](https://github.com/Unity-Billal-mesloub). أنصحك باتباع [دليل البداية من GitHub](https://guides.github.com/activities/hello-world/) قبل الإستمرار.
 1. قم بتحميل [GitHub لسطح المكتب](https://desktop.github.com/).
-   - كخيار آخر، إن كنت ترتاح لاستخدام Git على ال command line فيمكنك استخدامه (هنا تجد [المساهمين لأول مرة](https://github.com/Syknapse/first-contributions), مشروعاً مشابهاً يمكن أن يكون دليلاً للأوامر المطلوبة.) وكخيار ثالث...
+   - كخيار آخر، إن كنت ترتاح لاستخدام Git على ال command line فيمكنك استخدامه (هنا تجد [المساهمين لأول مرة](https://github.com/Unity-Educational-Formation/first-contributions), مشروعاً مشابهاً يمكن أن يكون دليلاً للأوامر المطلوبة.) وكخيار ثالث...
    - إن كنت تستخدم محرر [VS Code](https://code.visualstudio.com/ 'Visual Studio Code website') فهو يأتي مع نظام Git مدمجاً ويسمح لك بتنفيذ ما نريده مباشرة من داخل البرنامج.
    - وعلى كل حال، الطريقة الأبسط لاتباع هذا الدليل هي استخدام GitHub لسطح المكتب.
 
@@ -68,7 +66,7 @@ _الوقت المقدر: أقل من 30 دقيقة_.
 
 - الهدف هنا هو عمل نسخة من هذا المشروع ووضعها في حسابك الشخصي.
 - المستودع (repo) هو الإسم الذي يطلق على أي مشروع في GitHub وال fork هي نسخة منه.
-- تأكد من أنك في [الصفحة الرئيسية](https://github.com/Syknapse/Contribute-To-This-Project 'https://github.com/Syknapse/Contribute-To-This-Project') لهذا المشروع.
+- تأكد من أنك في [الصفحة الرئيسية](https://github.com/Unity-Billal-mesloub/Contribute-To-This-Project 'https://github.com/Unity-Billal-mesloub/Contribute-To-This-Project') لهذا المشروع.
 
 | <ul><li>اضغط على زر _Fork_</li></ul> | ![Fork](../../readme-only/fork.png "click on 'Fork'") |
 | :----------------------------------- | -------------------------------------------------: |
@@ -263,18 +261,18 @@ _الوقت المقدر: أقل من 30 دقيقة_.
 
 - عد بعد مدة قصيرة لتراحع عمليه دمج ال PR الخاص بك.
 - ستستلم بريداً إلكترونياً من GitHub عندما يتم الموافقة على تعديلاتك، أو في حالة تم طلب بعض التغييرات، وأيضاً عندما يتم أخيراً الموافقة على ال PR الخاص بك إلى تفرع ماستر وإضافة الكرت الخاص بك.
-- إن كنت تجد هذا المشروع **مفيداً** فقم بإضافة :star: نجمة :star: في أعلى الصفحة و **قم بالتغريد** عنها لنشرها [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Contribute%20To%20This%20Project.%20An%20easy%20project%20for%20first-time%20contributors,%20with%20a%20full%20tutorial.%20By%20@Syknapse&url=https://github.com/Syknapse/Contribute-To-This-Project&hashtags=100DaysofCode 'Tweet this project')
-- يمكنك أن **تتابعني** والتواصل معي على [تويتر](https://twitter.com/Syknapse '@Syknapse') أو [أياً من الخيارات الأخرى هنا](https://syknapse.github.io/Syk-Houdeib/#contact 'My contact section | Portfolio')
-- هذا المشروع مفتوح المصدر، لذا فبالإضافة للمساهمة بالكرت الخاص بك فأنت مرحب بك لإصلاح أي ثغرات، التطوير، أو إضافة مزايا جديدة. قم بفتح [issue](https://help.github.com/articles/creating-an-issue/ 'Mastering Issues | GitHub Guides') أو قدم [pull request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/ 'Creating a pull request from a fork | GitHub Help') جديداً
+- إن كنت تجد هذا المشروع **مفيداً** فقم بإضافة :star: نجمة :star: في أعلى الصفحة و **قم بالتغريد** عنها لنشرها [![Unity-Billal-mesloub]
+- يمكنك أن **تتابعني** والتواصل معي على  
+- هذا المشروع مفتوح المصدر، لذا فبالإضافة للمساهمة بالكرت الخاص بك فأنت مرحب بك لإصلاح أي ثغرات، التطوير، أو إضافة مزايا جديدة. قم بفتح [issue](https://help.github.com/articles/creating-an-issue/ 'maining Issues | GitHub Guides') أو قدم [pull request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/ 'Creating a pull request from a fork | GitHub Help') جديداً
 
 ## شكر وعرفان
 
-هذا المشروع متأثر بشكل كبير بالمشروع العظيم [first-contributions](https://github.com/Roshanjossey/first-contributions) لصاحبه [Roshan Jossey](https://github.com/Roshanjossey) مع دليله الممتاز.
+هذا المشروع متأثر بشكل كبير بالمشروع العظيم [first-contributions](https://github.com/Unity-Educational-Formation/first-contributions) لصاحبه [Unity-Billal-mesloub](https://github.com/Unity-Educational-Formation) مع دليل الممتاز.
 
-هو كذلك مستوحى من المجتمع العظيم حول [#GoogleUdacityScholars](https://twitter.com/hashtag/GoogleUdacityScholars?src=hash) منحة تحدي قوقل: مطور واجهات الويب، فصل عام 2017 بأوروبا.
+
 
 ## الترخيص
 
-[MIT License](https://github.com/Syknapse/Contribute-To-This-Project/blob/master/LICENSE)
+[MIT License](https://github.com/Unity-Billal-mesloub/Contribute-To-This-Project/blob/master/LICENSE)
 
 [العودة للأعلى &uparrow;](#المقدمة)
