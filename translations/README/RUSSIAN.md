@@ -2,9 +2,7 @@
 
 ![image info](/favicon.png)
 
-> Logo Created with :sparkling_heart: By [CandidDeer](https://github.com/CandidDeer)
-
-[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)][twit]
+> Logo Created with :sparkling_heart: By [CandidDeer](https://github.com/Unity-Billal-mesloub)
 
 [![Discord](https://badgen.net/discord/online-members/tWkvS4ueVF?label=Join%20Our%20Discord%20Server&icon=discord)](https://discord.gg/tWkvS4ueVF 'Join our Discord server!')
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://syknapse.github.io/Contribute-To-This-Project/)
@@ -14,7 +12,7 @@
 
 > ## **Объявление:**
 >
-> Хотели бы вы стать сопровождающим этого проекта и помогать поддерживать его в рабочем состоянии? Если вам интересно, прочтите [руководство по сопровождению](/maintainer_guide.md ) и пришлите мне сообщение в [Твиттере](https://twitter.com/Syknapse).
+> Хотели бы вы стать сопровождающим этого проекта и помогать поддерживать его в рабочем состоянии? Если вам интересно, прочтите [руководство по сопровождению](/maintainer_guide.md ) и пришлите мне сообщение 
 
 ---
 
@@ -92,7 +90,7 @@
 
 Сначала давайте настроим всё для выполнения работы
 
-1. Войдите в свою учетную запись GitHub. Если у вас еще нет учетной записи, то [присоединитесь к GitHub](https://github.com/join). Перед тем как продолжить, я рекомендую вам выполнить [учебник GitHub Hello World](https://guides.github.com/activities/hello-world/).
+1. Войдите в свою учетную запись GitHub. Если у вас еще нет учетной записи, то [присоединитесь к GitHub](https://github.com/Unity-Billal-mesloub). Перед тем как продолжить, я рекомендую вам выполнить [учебник GitHub Hello World](https://guides.github.com/activities/hello-world/).
 2. Скачайте [приложение GitHub Desktop](https://desktop.github.com/).
    - В качестве альтернативы, если вам удобно использовать Git в командной строке, вы можете сделать это [Вот ссылка на учебник CLI](/terminal-tutorial.md).
    - Если вы используете [VS Code](https://code.visualstudio.com/ 'Сайт Visual Studio Code'), он поставляется с интегрированным Git'ом и позволяет делать то, что нам нужно, прямо из редактора.
@@ -114,7 +112,7 @@ _Примерное время: Менее 30 минут_.
 
 - Цель состоит в том, чтобы сделать копию этого проекта и поместить ее в свой аккаунт.
 - Репозиторий - это то, как проект называется на GitHub, а форк - это его копия.
-- Убедитесь, что вы находитесь на [главной странице](https://github.com/Syknapse/Contribute-To-This-Project 'https://github.com/Syknapse/Contribute-To-This-Project') этого репозитория.
+- Убедитесь, что вы находитесь на [главной странице](https://github.com/Unity-Billal-mesloub/Contribute-To-This-Project 'https://github.com/Unity-Billal-mesloub/Contribute-To-This-Project') этого репозитория.
 
 | ![Fork](/readme-only/fork.png "Кликните на кнопку 'Fork'") |
 | :-------------------------------------------------: |
@@ -327,10 +325,8 @@ _Примерное время: Менее 30 минут_.
 - Вернитесь через некоторое время, чтобы проверить, как прошел ваш объединенный Pull Request.
 - Вы должны получить письмо от GitHub, когда ваши изменения будут одобрены, или если будут запрошены дополнительные изменения. И когда PR будет окончательно объединен с мастером и ваша карточка будет добавлена.
 - Вы также можете узнать, как внести свой вклад, из этой _бесплатной_ серии: [Как внести свой вклад в проект с открытым исходным кодом на GitHub](https://kcd.im/pull-request)
-- Если вы нашли этот проект **полезным**, пожалуйста, поставьте ему :star: звезду :star: вверху страницы и **Tweet** о нем, чтобы помочь распространить информацию [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Contribute%20To%20This%20Project.%20An%20easy%20project%20for%20first-time%20contributors,%20with%20a%20full%20tutorial.%20By%20@Syknapse&url=https://github.com/Syknapse/Contribute-To-This-Project&hashtags=100DaysofCode 'Tweet this project').
-- Вы можете **следовать за мной** и связаться со мной в [Твиттере](https://twitter.com/Syknapse '@Syknapse') или [используя любой из этих других вариантов](https://syknapse.github.io/Syk-Houdeib/#contact 'Мой раздел контактов | Портфолио').
 - Это проект с открытым исходным кодом, поэтому, помимо вклада в свою карту, вы можете помочь исправить ошибки, внести улучшения или новые функции. Откройте [проблему](https://help.github.com/articles/creating-an-issue/ 'Mastering Issues | GitHub Guides') или отправьте новый [pull request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/ 'Creating a pull request from a fork | GitHub Help').
-- Чтобы помочь улучшить наше сообщество, загляните на вкладку GitHub [Discussions](https://github.com/Syknapse/Contribute-To-This-Project/discussions), расположенную рядом с Pull Requests. Это место, где можно представиться, углубиться в обсуждение Open Source и пообщаться с мейнтейнерами проекта. Поможете ли вы нам создать эту функцию и улучшить наше сообщество?
+- Чтобы помочь улучшить наше сообщество, загляните на вкладку GitHub [Discussions](https://github.com/Unity-Billal-mesloub/Contribute-To-This-Project/discussions), расположенную рядом с Pull Requests. Это место, где можно представиться, углубиться в обсуждение Open Source и пообщаться с мейнтейнерами проекта. Поможете ли вы нам создать эту функцию и улучшить наше сообщество?
 - **Спасибо за ваш вклад в этот проект**. Теперь вы можете попробовать внести свой вклад в другие проекты; обратите внимание на метку ![Good First Issue](https://user-images.githubusercontent.com/29199184/33852733-e23b7070-debb-11e7-907b-4e7a03aad436.png), чтобы найти варианты вклада, удобные для новичков.
 - Я также ищу соавторов, которые могли бы помочь мне в рецензировании и объединении PR. Если вы хотите получить более продвинутую практику работы с Git, пожалуйста, напишите мне DM в Twitter и прочитайте [руководство сопровождающего](/maintainer_guide.md).
 
@@ -340,14 +336,9 @@ _Примерное время: Менее 30 минут_.
 
 ### Благодарности
 
-На этот проект сильно повлияла работа [Рошана Джосси](https://github.com/Roshanjossey) - проект замечательные [первые вклады](https://github.com/Roshanjossey/first-contributions) с его отличным учебником.
-
-Этот проект также особенно вдохновлен большим сообществом вокруг [#GoogleUdacityScholars](https://twitter.com/hashtag/GoogleUdacityScholars?src=hash) Стипендия Google Challenge: Front-End Web Dev, класс 2017г. в Европе.
+На этот проект сильно повлияла работа [Рошана Джосси](https://github.com/Unity-Educational-Formation) - проект замечательные [первые вклады](https://github.com/Unity-Educational-Formation/first-contributions) с его отличным учебником.
 
 ### 100 лучших участников
 
-[![GitHub Contributors Image](https://contrib.rocks/image?repo=Syknapse/Contribute-To-This-Project)](https://github.com/Syknapse/Contribute-To-This-Project/graphs/contributors)
+[![GitHub Contributors Image](https://contrib.rocks/image?repo=Syknapse/Contribute-To-This-Project)](https://github.com/Unity-Billal-mesloub/Contribute-To-This-Project/graphs/contributors)
 
-[↑ Вернуться наверх ↑](#индекс-быстрого-доступа)
-
-[twit]: https://twitter.com/intent/tweet?text=Contribute%20To%20This%20Project.%20An%20easy%20project%20for%20first-time%20contributors,%20with%20a%20full%20tutorial.%20By%20@Syknapse&url=https://github.com/Syknapse/Contribute-To-This-Project&hashtags=100DaysofCode 'Tweet this project'
