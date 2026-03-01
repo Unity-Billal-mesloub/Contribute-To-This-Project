@@ -2,9 +2,7 @@
 
 ![image info](/favicon.png)
 
-> Dieses Logo wurde mit :sparkling_heart: von [CandidDeer](https://github.com/CandidDeer) erstellt
-
-[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)][twit]
+> Dieses Logo wurde mit :sparkling_heart: von [CandidDeer](https://github.com/Unity-Billal-mesloub) erstellt
 
 [![Discord](https://badgen.net/discord/online-members/tWkvS4ueVF?label=Join%20Our%20Discord%20Server&icon=discord)](https://discord.gg/tWkvS4ueVF 'Tritt unserem Discord-Server bei')
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://syknapse.github.io/Contribute-To-This-Project/)
@@ -96,7 +94,7 @@ Diese Anleitung ist auch in anderen Sprachen verfügbar:  [other languages](/tra
 
 Zuerst lass die Installationsanwendung ihre Arbeit verrichten.
 
-1. Logge dich in dein GitHub Konto ein. Falls du noch kein Konto besitzt, [tritt GitHub bei](https://github.com/join). Ich empfehle dir, dass du zuerst das [GitHub Hello World Tutorial](https://guides.github.com/activities/hello-world/) absolvierst, bevor du hier weitermachst.
+1. Logge dich in dein GitHub Konto ein. Falls du noch kein Konto besitzt, [tritt GitHub bei](https://github.com/Unity-Billal-mesloub). Ich empfehle dir, dass du zuerst das [GitHub Hello World Tutorial](https://guides.github.com/activities/hello-world/) absolvierst, bevor du hier weitermachst.
 2. Lade die [GitHub Desktop Anwendung](https://desktop.github.com/) herunter.
    - Alternativ: Wenn du im Umgang mit GitHub per Terminal vertraut bist: [Hier ist ein Link zu der CLI-Anleitung](/terminal_tutorial.md).
    - Falls du  [VS Code](https://code.visualstudio.com/ 'Visual Studio Code website') benutzt, beinhaltet es Git bereits und erlaubt dir, alles Notwendige gleich innerhalb des Editors zu machen.
@@ -340,9 +338,8 @@ Ich verspreche dir, dass ich jede neue Karte so schnell wie möglich begutachte 
 - Du kannst auch von dieser _kostenlosen_ Serie lernen, wie du weitere Beiträge leisten kannst: [How to Contribute to an Open Source Project on GitHub](https://kcd.im/pull-request).
 - Falls du dieses Projekt **nützlich** fandest, gib ihm bitte einen :star: Stern :star: oben auf der Seite und **Tweete** darüber, um dieses Projekt weiter zu verbreiten [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)][twit].
 - Du kannst auch unserem [Discord-Server](https://discord.gg/tWkvS4ueVF) beitreten.
-- Du kannst **mir folgen** und mit mir in Kontakt treten [𝕏 (Twitter)](https://twitter.com/Syknapse '@Syknapse') oder [eine der anderen Optionen nutzen](https://syknapse.github.io/Syk-Houdeib/#contact 'Meine Kontakt Abteilung | Portfolio').
 - Dieses Projekt ist ein Open Source Projekt. Du bist herzlich dazu eingeladen, Verbesserungsvorschläge zu stellen, Bugs zu beheben, oder auf sonstige Weise mitzuwirken. Eröffne ein [issue](https://help.github.com/articles/creating-an-issue/ 'Mastering Issues | GitHub Guides') oder schicke eine [pull request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/ 'Erstelle eine Pull Anfrage von einer Abzweigung (fork) | GitHub Help').
-- Um die Gemeinschaft weiter zu verbessern, seh dir auch den: [Discussions](https://github.com/Syknapse/Contribute-To-This-Project/discussions)-Tab neben den Pull Anfragen an. Dieser Bereich ist dafür da, um dich genauer vorzustellen, an tieferen Diskussionen über Open Source teilzunehmen, und mit den Projekt-Betreibern in Kontakt zu treten. Wirst du uns helfen diese Funktion und Gemeinschaft weiter zu verbessern?
+- Um die Gemeinschaft weiter zu verbessern, seh dir auch den: [Discussions](https://github.com/Unity-Billal-mesloub/Contribute-To-This-Project/discussions)-Tab neben den Pull Anfragen an. Dieser Bereich ist dafür da, um dich genauer vorzustellen, an tieferen Diskussionen über Open Source teilzunehmen, und mit den Projekt-Betreibern in Kontakt zu treten. Wirst du uns helfen diese Funktion und Gemeinschaft weiter zu verbessern?
 - **Vielen Dank für deine Teilnahme an diesem Projekt**. Nun kannst du fortfahren, und bei anderen Projekten beitragen; Halte nach dem ![Good First Issue](https://user-images.githubusercontent.com/29199184/33852733-e23b7070-debb-11e7-907b-4e7a03aad436.png) Schlüsselwort Ausschau, welches für anfängerfreundliche Problemstellungen gedacht ist.
 - Ich suche außerdem nach Mitwirkenden, welche mir bei der Begutachtung von eingereichten Pull Anfragen und Verschmelzungen jener helfen. Falls du fortgeschrittenere Git Anwendungspraktiken lernen möchtest, lies den [maintainer's guide](/maintainer_guide.md), trete unserem [Discord-Server](https://discord.gg/tWkvS4ueVF) bei, und frage an, ob du dem Team der Projekt-Betreuer beitreten kannst.
 
@@ -351,9 +348,7 @@ Ich verspreche dir, dass ich jede neue Karte so schnell wie möglich begutachte 
 ---
 ### Anerkennungen
 
-Dieses Projekt ist sehr stark von [Roshan Jossey's](https://github.com/Roshanjossey) großartigem [first-contributions](https://github.com/Roshanjossey/first-contributions) Projekt und dessen hervorragender Anleitung beeinflusst.
-
-Es ist außerdem besonders von der hervorragenden [#GoogleUdacityScholars](https://twitter.com/hashtag/GoogleUdacityScholars?src=hash) Gemeinschaft inspiriert. The Google Challenge Scholarship: Front-End Web Dev, class of 2017 Europe.
+Dieses Projekt ist sehr stark von [Roshan Jossey's](https://github.com/Unity-Educational-Formation) großartigem [first-contributions](https://github.com/Unity-Educational-Formation/first-contributions) Projekt und dessen hervorragender Anleitung beeinflusst.
 
 ### Lizenzen
 
@@ -361,8 +356,6 @@ Dieses Projekt ist lizensiert unter folgender Lizenz: [MIT License](./LICENSE).
 
 ### Top 100 Beitragende
 
-[![GitHub Contributors Image](https://contrib.rocks/image?repo=Syknapse/Contribute-To-This-Project)](https://github.com/Syknapse/Contribute-To-This-Project/graphs/contributors)
+[![GitHub Contributors Image](https://contrib.rocks/image?repo=Syknapse/Contribute-To-This-Project)](https://github.com/Unity-Billal-mesloub/Contribute-To-This-Project/graphs/contributors)
 
-[Zurück nach oben &uparrow;](#einführung)
 
-[twit]: https://twitter.com/intent/tweet?text=Contribute%20To%20This%20Project.%20An%20easy%20project%20for%20first-time%20contributors,%20with%20a%20full%20tutorial.%20By%20@Syknapse&url=https://github.com/Syknapse/Contribute-To-This-Project&hashtags=100DaysofCode 'Tweet this project'
