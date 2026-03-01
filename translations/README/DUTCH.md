@@ -2,7 +2,7 @@
 
 ![image info](/favicon.png)
 
-> Logo gemaakt met :sparkling_heart: door [CandidDeer](https://github.com/CandidDeer)
+> Logo gemaakt met :sparkling_heart: door [CandidDeer](https://github.com/Unity-Billal-mesloub)
 
 [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)][twit]
 
@@ -95,7 +95,7 @@ Deze handleiding is ook beschikbaar in [andere talen](/translations/README.md)
 
 Laten we ons eerst voorbereiden op het werk
 
-1. Log in op je GitHub-account. Als je nog geen account heb, [maak dan een account aan](https://github.com/join). Ik raad je aan om de [GitHub Hello World tutorial](https://guides.github.com/activities/hello-world/) te doen voordat je verder gaat.
+1. Log in op je GitHub-account. Als je nog geen account heb, [maak dan een account aan](https://github.com/Unity-Billal-mesloub). Ik raad je aan om de [GitHub Hello World tutorial](https://guides.github.com/activities/hello-world/) te doen voordat je verder gaat.
 2. Download [GitHub Desktop](https://desktop.github.com/).
    - Als alternatief kun je Git ook op een terminal gebruiken [Hier is de link naar de CLI-handleiding](/terminal_tutorial.md).
    - Als je [VS Code](https://code.visualstudio.com/ 'Visual Studio Code website') gebruikt: het komt met geïntegreerde Git en stelt je in staat om direct vanuit de editor te doen wat nodig is.
@@ -117,7 +117,7 @@ _Geschatte tijd: Minder dan 30 minuten_.
 
 - Het doel is hier om een kopie te maken van dit project en het in je eigen account te plaatsen.
 - Een bron (repository of kortweg repo) is de benaming op Github van een project en een afsplitsing (fork) is een kopie daarvan.
-- Zorg ervoor dat je op de [hoofdpagina](https://github.com/Syknapse/Contribute-To-This-Project 'https://github.com/Syknapse/Contribute-To-This-Project') van deze repo bent.
+- Zorg ervoor dat je op de [hoofdpagina](https://github.com/Unity-Billal-mesloub/Contribute-To-This-Project 'https://github.com/Unity-Billal-mesloub/Contribute-To-This-Project') van deze repo bent.
 
 | ![Fork](/readme-only/fork.png "click on 'Fork'") |
 | :---------------------------------------------: |
@@ -169,7 +169,7 @@ _Geschatte tijd: Minder dan 30 minuten_.
 - Nu heb je een nieuwe tak (branch) gemaakt die gescheiden is van de hoofdtak (master branch).
 - Voor de volgende stappen moet je er zeker van zijn dat je in deze branch werkt. Je zult de naam van de tak waarin je zit bovenaan in het midden van GitHub Desktop zien, waar het zegt _Current branch_.
 
-**Werk NIET in de `master` tak (branch)**
+**Werk NIET in de `main` tak (branch)**
 
 [↑ Ga naar boven ↑](#snelle-toegangsindex)
 
@@ -337,11 +337,10 @@ Ik beloof dat ik zal proberen zo snel mogelijk te reviewen en samen te voegen, m
 - Kom over een tijdje terug om te kijken of je Pull Request is gefuseerd.
 - Je zou een e-mail van GitHub moeten ontvangen als je wijzigingen zijn goedgekeurd, of als er om extra wijzigingen wordt gevraagd. En ook als de PR uiteindelijk is samengevoegd met de hoofdmap en je kaart is toegevoegd.
 - Je kunt ook leren hoe je kunt bijdragen met behulp van deze _gratis_ serie: [How to Contribute to an Open Source Project on GitHub](https://kcd.im/pull-request)
-- Als je dit project **bruikbaar** vond, geef het dan een :star: ster :star: bovenaan de pagina en **Tweet** erover om het nieuws te helpen verspreiden [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)][twit]
 - Je kunt je aansluiten bij onze [Discord server](https://discord.gg/tWkvS4ueVF)
 - Je kunt me **volgen** en contact opnemen op via [𝕏 (Twitter)](https://twitter.com/Syknapse '@Syknapse') of [een van deze andere optie te gebruiken](https://syknapse.github.io/Syk-Houdeib/#contact 'My contact section | Portfolio')
 - Dit is een open source project, dus naast het bijdragen van je kaart ben je welkom om te helpen bij het oplossen van fouten, het maken van verbeteringen of het toevoegen van nieuwe functies. Open een [issue](https://help.github.com/articles/creating-an-issue/ 'Mastering Issues | GitHub Guides') of begin a nieuw [pull request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/ 'Creating a pull request from a fork | GitHub Help')
-- Om onze community te helpen verbeteren, kun je een kijkje nemen op het GitHub [Discussies](https://github.com/Syknapse/Contribute-To-This-Project/discussions) tabblad dat zich naast die van de Pull Requests bevindt. Dit is een plaats om jezelf voor te stellen, dieper in te gaan op discussies over Open Source en te communiceren met de projectbeheerders. Wil je ons helpen deze functie uit te bouwen en onze gemeenschap te versterken?
+- Om onze community te helpen verbeteren, kun je een kijkje nemen op het GitHub [Discussies](https://github.com/Unity-Billal-mesloub/Contribute-To-This-Project/discussions) tabblad dat zich naast die van de Pull Requests bevindt. Dit is een plaats om jezelf voor te stellen, dieper in te gaan op discussies over Open Source en te communiceren met de projectbeheerders. Wil je ons helpen deze functie uit te bouwen en onze gemeenschap te versterken?
 - **Dank voor je bijdrage aan dit project**. Nu kun je proberen bij te dragen aan andere projecten; zoek naar de ![Good First Issue](https://user-images.githubusercontent.com/29199184/33852733-e23b7070-debb-11e7-907b-4e7a03aad436.png) label voor beginnersvriendelijke bijdrageopties.
 - Ik ben ook op zoek naar medewerkers die me kunnen helpen met het reviewen en samenvoegen van PR's. Als je meer geavanceerde Git oefeningen wilt, lees dan de [beheerdershandleiding](/maintainer_guide.md), sluit je aan bij onze [Discord server](https://discord.gg/tWkvS4ueVF), en vraag om aan te sluiten bij het team van de projectbeheerders.
 
@@ -350,9 +349,8 @@ Ik beloof dat ik zal proberen zo snel mogelijk te reviewen en samen te voegen, m
 ---
 ### Dankbetuigingen
 
-Dit project is erg beïnvloed door [Roshan Jossey's](https://github.com/Roshanjossey) geweldige [first-contributions](https://github.com/Roshanjossey/first-contributions) project met zijn uitstekende handleiding.
+Dit project is erg beïnvloed door [Roshan Jossey's](https://github.com/Unity-Educational-Formation) geweldige [first-contributions](https://github.com/Unity-Educational-Formation/first-contributions) project met zijn uitstekende handleiding.
 
-Het is ook bijzonder geïnspireerd door de geweldige gemeenschap rond [#GoogleUdacityScholars](https://twitter.com/hashtag/GoogleUdacityScholars?src=hash) The Google Challenge Scholarship: Front-End Web Dev, class of 2017 Europe.
 
 ### Licensie
 
@@ -360,8 +358,8 @@ Dit project is gelicentieerd onder de [MIT License](./LICENSE).
 
 ### Top 100 bijdragers
 
-[![GitHub Contributors Image](https://contrib.rocks/image?repo=Syknapse/Contribute-To-This-Project)](https://github.com/Syknapse/Contribute-To-This-Project/graphs/contributors)
+[![GitHub Contributors Image](https://contrib.rocks/image?repo=Syknapse/Contribute-To-This-Project)](https://github.com/Unity-Billal-mesloub/Contribute-To-This-Project/graphs/contributors)
 
 [Terug naar boven &uparrow;](#introductie)
 
-[twit]: https://twitter.com/intent/tweet?text=Contribute%20To%20This%20Project.%20An%20easy%20project%20for%20first-time%20contributors,%20with%20a%20full%20tutorial.%20By%20@Syknapse&url=https://github.com/Syknapse/Contribute-To-This-Project&hashtags=100DaysofCode 'Tweet this project'
+
