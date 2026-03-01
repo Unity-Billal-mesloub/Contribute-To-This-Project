@@ -2,7 +2,7 @@
 
 ![image info](/favicon.png)
 
-> Logo Created with :sparkling_heart: By [CandidDeer](https://github.com/CandidDeer)
+> Logo Created with :sparkling_heart: By [CandidDeer](https://github.com/Unity-Billal-mesloub)
 
 [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)][twit]
 
@@ -96,7 +96,7 @@ This tutorial is also available in [other languages](/translations/README.md)
 
 First let's get setup to do the work
 
-1. Login to your GitHub account. If you don't yet have an account then [join GitHub](https://github.com/join). I recommend that you do the [GitHub Hello World tutorial](https://guides.github.com/activities/hello-world/) before you continue.
+1. Login to your GitHub account. If you don't yet have an account then [join GitHub](https://github.com/Unity-Billal-mesloub). I recommend that you do the [GitHub Hello World tutorial](https://guides.github.com/activities/hello-world/) before you continue.
 2. Download [GitHub Desktop app](https://desktop.github.com/).
    - Alternatively if you are comfortable using Git on the command line you can do so [Here is the link to the CLI tutorial](/terminal_tutorial.md).
    - If you use [VS Code](https://code.visualstudio.com/ 'Visual Studio Code website') it comes with integrated Git and allows you to do what we need straight from the editor.
@@ -118,7 +118,7 @@ _Estimated time: Less than 30 minutes_.
 
 - The objective here is to make a copy of this project and place it in your account.
 - A repository (repo) is how a project is called on GitHub and a fork is a copy of it.
-- Make sure you are on the [main page](https://github.com/Syknapse/Contribute-To-This-Project 'https://github.com/Syknapse/Contribute-To-This-Project') of this repo.
+- Make sure you are on the [main page](https://github.com/Unity-Billal-mesloub/Contribute-To-This-Project 'https://github.com/Unity-Billal-mesloub/Contribute-To-This-Project') of this repo.
 
 | ![Fork](/readme-only/fork.png "click on 'Fork'") |
 | :---------------------------------------------: |
@@ -298,7 +298,7 @@ _Estimated time: Less than 30 minutes_.
 |  ![Submit a Pull Request](/readme-only/pull-request.PNG 'This is usually towards the top of the page, under the description and above the project files and folders')  |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                    :arrow_right_hook: **Click on the `Compare and pull request`**                                                     |
-| ![Open a Pull Request](/readme-only/pull-request-branches.PNG 'You are requesting to merge your branch from your fork into the master branch of the original project') |
+| ![Open a Pull Request](/readme-only/pull-request-branches.PNG 'You are requesting to merge your branch from your fork into the main branch of the original project') |
 |                                              :arrow_right_hook: This is what the `Open a pull request` page looks like.                                               |
 
 - REMEMBER _you are trying to merge your branch with the original project not with the `Master` branch on your fork_.
@@ -340,7 +340,7 @@ I promise I will try to review and merge as soon as possible but I do this in my
 - You can also learn how to contribute from this _free_ series: [How to Contribute to an Open Source Project on GitHub](https://kcd.im/pull-request)
 - If you found this project **useful** please give it a :star: star :star: at the top of the page and **Tweet** about it to help spread the word [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)][twit]
 - You can join our [Discord server](https://discord.gg/tWkvS4ueVF)
-- You can **follow me** and get in touch on [𝕏 (Twitter)](https://twitter.com/Syknapse '@Syknapse') or [using any of these other options](https://syknapse.github.io/Syk-Houdeib/#contact 'My contact section | Portfolio')
+- You can **follow me** and get in touch on  [using any of these other options](https://syknapse.github.io/Syk-Houdeib/#contact 'My contact section | Portfolio')
 - This is an open source project so apart from contributing your card you are welcome to help fix bugs, improvements, or new features. Open an [issue](https://help.github.com/articles/creating-an-issue/ 'Mastering Issues | GitHub Guides') or send a new [pull request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/ 'Creating a pull request from a fork | GitHub Help')
 - To help improve our community take a look at the GitHub [Discussions](https://github.com/Syknapse/Contribute-To-This-Project/discussions) tab located next to Pull Requests. This area is a place to introduce yourself, go into deeper discussions on Open Source, and communicate with the Project Maintainers. Will you help us build out this feature and enhance our community?
 - **Thanks for contributing to this project**. Now you can go ahead and try contributing to other projects; look for the ![Good First Issue](https://user-images.githubusercontent.com/29199184/33852733-e23b7070-debb-11e7-907b-4e7a03aad436.png) label for beginner-friendly contribution options.
@@ -351,7 +351,7 @@ I promise I will try to review and merge as soon as possible but I do this in my
 ---
 ### Acknowledgements
 
-This project is heavily influenced by [Roshan Jossey's](https://github.com/Roshanjossey) great [first-contributions](https://github.com/Roshanjossey/first-contributions) project with its excellent tutorial.
+This project is heavily influenced by [Roshan Jossey's](https://github.com/Unity-Billal-mesloub) great [first-contributions](https://github.com/Unity-Educational-Formation/first-contributions) project with its excellent tutorial.
 
 It is also particularly inspired by the great community around [#GoogleUdacityScholars](https://twitter.com/hashtag/GoogleUdacityScholars?src=hash) The Google Challenge Scholarship: Front-End Web Dev, class of 2017 Europe.
 
