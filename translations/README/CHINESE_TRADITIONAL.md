@@ -2,7 +2,7 @@
 
 ![image info](/favicon.png)
 
-> 用 :sparkling_heart:製作的 Logo，作者： [CandidDeer](https://github.com/CandidDeer)
+> 用 :sparkling_heart:製作的 Logo，作者： [CandidDeer](https://github.com/Unity-Billal-mesloub)
 
 [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)][twit]
 
@@ -14,8 +14,7 @@
 
 > ## **公告：**
 >
-> 你願意成為這個專案的維護者 (maintainer) 並讓它繼續運行嗎？如果你有興趣，請閱讀[維護者指南](/translations/maintainer_guide/maintainer_guide.zho-tc.md)並在[Twitter](https://twitter.com/Syknapse)上私訊我。
-
+> 你願意成為這個專案的維護者 (maintainer) 並讓它繼續運行嗎？如果你有興趣，請閱讀[維護者指南](/translations/maintainer_guide/maintainer_guide.zho-tc.md)
 ---
 
 ### 索引表
@@ -98,7 +97,7 @@
 
 首先，我們先來設置好環境。
 
-1. 登入你的 GitHub 帳號。如果你沒有一個帳號就[加入 GitHub](https://github.com/join)。我建議你在繼續之前先完成[GitHub Hello World 教學](https://guides.github.com/activities/hello-world/)。
+1. 登入你的 GitHub 帳號。如果你沒有一個帳號就[加入 GitHub](https://github.com/Unity-Educational-Formation)。我建議你在繼續之前先完成[GitHub Hello World 教學](https://guides.github.com/activities/hello-world/)。
 2. 下載 [GitHub Desktop](https://desktop.github.com/).
    - 或者，如果你熟悉在命令列使用 Git，你也可以這樣做。 [命令列教學的連結在這裡](/translations/terminal_tutorial/terminal_tutorial.zho-tc.md).
    - 如果你使用 [VS Code](https://code.visualstudio.com/ 'Visual Studio Code website')，它自帶整合的 Git 並且讓你可以直接從編輯器做我們需要的事情。
@@ -120,7 +119,7 @@ _估計時間：少於30分鐘_.
 
 - 這一步的目標是複製一份這個專案，並且放到你的帳號底下。
 - 一個儲存庫 (repo) 是一個專案在 GitHub 中的稱呼，而分叉則是它的複製品。
-- 請確認你在這個儲存庫的[主頁](https://github.com/Syknapse/Contribute-To-This-Project 'https://github.com/Syknapse/Contribute-To-This-Project')。
+- 請確認你在這個儲存庫的[主頁](https://github.com/Syknapse/Contribute-To-This-Project 'https://github.com/Unity-Billal-mesloub/Contribute-To-This-Project')。
 
 | ![Fork](/readme-only/fork.png "click on 'Fork'") |
 | :---------------------------------------------: |
@@ -334,9 +333,8 @@ _估計時間：少於30分鐘_.
 - 當你的變更被批准時，或是被要求做出額外變更時，你應該會收到 GitHub 寄的電子郵件。還有當 PR 終於與 master 合併，而且你的卡片被加入的時候。
 - 你也可以從這 _免費_ 系列中學習怎麼貢獻：[How to Contribute to an Open Source Project on GitHub](https://kcd.im/pull-request)
 - 如果你覺得這份專案**有用**，請在頁面的最上面給它一顆:star:星星:star:，並且替它**發推特**來幫忙宣傳。[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)][twit]
-- 你可以在[推特](https://twitter.com/Syknapse '@Syknapse')**追蹤我**和聯絡我，或是[使用這些其他方法](https://syknapse.github.io/Syk-Houdeib/#contact 'My contact section | Portfolio')
-- 這是一個開源專案，所以除了貢獻你的卡片外，歡迎你幫忙修復 bug、改進，或是加上新功能。新增一個 [issue](https://help.github.com/articles/creating-an-issue/ 'Mastering Issues | GitHub Guides') 或是發送一個 [拉取請求](https://help.github.com/articles/creating-a-pull-request-from-a-fork/ 'Creating a pull request from a fork | GitHub Help')。
-- 為了幫忙改進我們的社群，看一眼拉取請求旁的 GitHub [Discussions](https://github.com/Syknapse/Contribute-To-This-Project/discussions) 頁面。這個區域是一個介紹你自己、進行有關開源更深入的討論，還有和專案維護者交流的地方。你願意幫助我們建立這個功能，並改善我們的社群嗎？
+開源專案，所以除了貢獻你的卡片外，歡迎你幫忙修復 bug、改進，或是加上新功能。新增一個 [issue](https://help.github.com/articles/creating-an-issue/ 'Mastering Issues | GitHub Guides') 或是發送一個 [拉取請求](https://help.github.com/articles/creating-a-pull-request-from-a-fork/ 'Creating a pull request from a fork | GitHub Help')。
+- 為了幫忙改進我們的社群，看一眼拉取請求旁的 GitHub [Discussions](https://github.com/Unity-Billal-mesloub/Contribute-To-This-Project/discussions) 頁面。這個區域是一個介紹你自己、進行有關開源更深入的討論，還有和專案維護者交流的地方。你願意幫助我們建立這個功能，並改善我們的社群嗎？
 - **感謝你貢獻這個專案**。現在你可以繼續試著貢獻其他專案了；尋找![Good First Issue](https://user-images.githubusercontent.com/29199184/33852733-e23b7070-debb-11e7-907b-4e7a03aad436.png)標籤以找到適合新手的貢獻選擇。
 - 我也在尋找合作者來幫助我審查與合併 PR。如果你想要有更進階的 Git 練習，請在推特上私訊我，並且閱讀[維護者指南](/maintainer_guide.md)。
 
@@ -346,14 +344,13 @@ _估計時間：少於30分鐘_.
 
 ### 致謝
 
-這個專案受到 [Roshan Jossey](https://github.com/Roshanjossey) 出色的  [first-contributions](https://github.com/Roshanjossey/first-contributions) 專案，和它卓越的教學影響很大。
+這個專案受到 [Roshan Jossey](https://github.com/Unity-Educational-Formation) 出色的  [first-contributions](https://github.com/Unity-Educational-Formation/first-contributions) 專案，和它卓越的教學影響很大。
 
-它也特別被 [#GoogleUdacityScholars](https://twitter.com/hashtag/GoogleUdacityScholars?src=hash) The Google Challenge Scholarship: Front-End Web Dev, class of 2017 Europe 周邊優秀的社群所啟發。
 
 ### 前100名貢獻者
 
-[![GitHub Contributors Image](https://contrib.rocks/image?repo=Syknapse/Contribute-To-This-Project)](https://github.com/Syknapse/Contribute-To-This-Project/graphs/contributors)
+[![GitHub Contributors Image](https://contrib.rocks/image?repo=Syknapse/Contribute-To-This-Project)](https://github.com/Unity-Billal-mesloub/Contribute-To-This-Project/graphs/contributors)
 
 [回到頂部 &uparrow;](#簡介)
 
-[twit]: https://twitter.com/intent/tweet?text=Contribute%20To%20This%20Project.%20An%20easy%20project%20for%20first-time%20contributors,%20with%20a%20full%20tutorial.%20By%20@Syknapse&url=https://github.com/Syknapse/Contribute-To-This-Project&hashtags=100DaysofCode 'Tweet this project'
+
