@@ -2,19 +2,13 @@
 
 ![image info](/favicon.png)
 
-> Logo créé avec :sparkling_heart: par [CandidDeer](https://github.com/CandidDeer)
+> Logo créé avec :sparkling_heart: par [CandidDeer](https://github.com/Unity-Billal-mesloub)
 
 [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)][twit]
 
 [![Discord](https://badgen.net/discord/online-members/tWkvS4ueVF?label=Join%20Our%20Discord%20Server&icon=discord)](https://discord.gg/tWkvS4ueVF 'Rejoignez notre serveur Discord!')
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://syknapse.github.io/Contribute-To-This-Project/)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://syknapse.github.io/Contribute-To-This-Project/)
-
----
-
-> ### **Annonce:**
->
-> Souhaitez-vous devenir un responsable de ce projet et aider à le maintenir? Si vous êtes intéressé, lisez le [guide du mainteneur](/maintainer_guide.md) et envoyez-moi un DM sur [Twitter](https://twitter.com/Syknapse).
 
 ---
 
@@ -96,7 +90,7 @@ Ce tutoriel est également disponible dans d'[autres langues](/translations/READ
 
 Commençons par configurer l'environnement de travail :
 
-1. Connectez-vous à votre compte GitHub. Si vous n'en avez pas encore, [créez un compte](https://github.com/join). Je vous conseille de faire le [Tutoriel GitHub Hello World](https://guides.github.com/activities/hello-world/) avant de continuer.
+1. Connectez-vous à votre compte GitHub. Si vous n'en avez pas encore, [créez un compte](https://github.com/Unity-Billal-mesloub). Je vous conseille de faire le [Tutoriel GitHub Hello World](https://guides.github.com/activities/hello-world/) avant de continuer.
 2. Téléchargez l'application [GitHub Desktop](https://desktop.github.com/).
    - Autrement, si vous êtes confortable avec le terminal, vous pouvez l'utiliser: [voici le lien vers le tutoriel CLI](/terminal_tutorial.md).
    - Si vous utilisez [VS Code](https://code.visualstudio.com/ 'Visual Studio Code website'), il propose un Git intégré et permet de faire le nécessaire directement depuis l'éditeur.
@@ -118,7 +112,7 @@ _Temps estimé: moins de 30 minutes_.
 
 - L'objectif ici est de faire une copie de ce projet sur votre compte.
 - Un repo (dépôt) est la façon dont un projet est appelé sur GitHub, et un fork en est une copie par un autre utilisateur.
-- Assurez-vous que vous êtes sur la [page principale](https://github.com/Syknapse/Contribute-To-This-Project 'https://github.com/Syknapse/Contribute-To-This-Project') de ce repo.
+- Assurez-vous que vous êtes sur la [page principale](https://github.com/Unity-Billal-mesloub/Contribute-To-This-Project 'https://github.com/Unity-Billal-mesloub/Contribute-To-This-Project') de ce repo.
 
 | ![Fork](/readme-only/fork.png "cliquez sur 'Fork'") |
 | :---------------------------------------------: |
@@ -351,9 +345,7 @@ Je promets d'essayer de lire et de fusionner les changements dès que possible, 
 
 ### Remerciements
 
-Ce projet a été fortement influencé par le projet de [Roshan Jossey](https://github.com/Roshanjossey), [first-contributions](https://github.com/Roshanjossey/first-contributions), et de son excellent tutoriel.
-
-Il est également particulièrement inspiré par la grande communauté autour de [#GoogleUdacityScholars](https://twitter.com/hashtag/GoogleUdacityScholars?src=hash): The Google Challenge Scholarship: Front-End Web Dev, promotion 2017 Europe.
+Ce projet a été fortement influencé par le projet de [Roshan Jossey](https://github.com/Unity-Educational-Formation), [first-contributions](https://github.com/Unity-Educational-Formation/first-contributions), et de son excellent tutoriel.
 
 ### Licence
 
@@ -361,8 +353,8 @@ Ce projet est sous la [Licence MIT](./LICENSE).
 
 ### Top 100 Contributeurs
 
-[![GitHub Contributors Image](https://contrib.rocks/image?repo=Syknapse/Contribute-To-This-Project)](https://github.com/Syknapse/Contribute-To-This-Project/graphs/contributors)
+[![GitHub Contributors Image](https://contrib.rocks/image?repo=Syknapse/Contribute-To-This-Project)](https://github.com/Unity-Billal-mesloub/Contribute-To-This-Project/graphs/contributors)
 
 [↑ Retour à l'index ↑](#index)
 
-[twit]: https://twitter.com/intent/tweet?text=Contribute%20To%20This%20Project.%20An%20easy%20project%20for%20first-time%20contributors,%20with%20a%20full%20tutorial.%20By%20@Syknapse&url=https://github.com/Syknapse/Contribute-To-This-Project&hashtags=100DaysofCode 'Tweet this project'
+
