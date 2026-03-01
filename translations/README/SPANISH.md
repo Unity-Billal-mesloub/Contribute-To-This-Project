@@ -2,19 +2,11 @@
 
 ![Logo del proyecto](/favicon.png)
 
-> Logo Created with :sparkling_heart: By [CandidDeer](https://github.com/CandidDeer)
-
-[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Contribute%20To%20This%20Project.%20An%20easy%20project%20for%20first-time%20contributors,%20with%20a%20full%20tutorial.%20By%20@Syknapse&url=https://github.com/Syknapse/Contribute-To-This-Project&hashtags=100DaysofCode 'Twittea este proyecto')
+> Logo Created with :sparkling_heart: By [CandidDeer](https://github.com/Unity-Billal-mesloub)
 
 [![Discord](https://badgen.net/discord/online-members/tWkvS4ueVF?label=Join%20Our%20Discord%20Server&icon=discord)](https://discord.gg/tWkvS4ueVF 'Unete a nuestro servidor de Discord!')
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://syknapse.github.io/Contribute-To-This-Project/)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://syknapse.github.io/Contribute-To-This-Project/)
-
----
-
-> ## **Anuncio:**
->
-> Te gustaría formar parte de este proyecto y ayudar a mantenerlo? Si estás interesado, lee la [guía para mantenedores](/maintainer_guide.md) y envíame un DM en [Twitter](https://twitter.com/Syknapse).
 
 ---
 
@@ -99,9 +91,9 @@ Nota: Este tutorial está basado en GitHub para escritorio. [Si te sientes cómo
 
 Primero, vamos a preparar lo necesario:
 
-1. Inicia sesión en tu cuenta de GitHub. Si aún no tienes una, [créala](https://github.com/join). Te recomiendo que sigas el tutorial [Hello World Github tutorial](https://guides.github.com/activities/hello-world/) antes de continuar.
+1. Inicia sesión en tu cuenta de GitHub. Si aún no tienes una, [créala](https://github.com/Unity-Educational-Formation). Te recomiendo que sigas el tutorial [Hello World Github tutorial](https://guides.github.com/activities/hello-world/) antes de continuar.
 2. Descarga el software [GitHub Desktop](https://desktop.github.com/).
-   - Si te sientes cómodo usando Git en la consola de comandos, puedes hacerlo (el tutorial [first-contributions](https://github.com/Syknapse/first-contributions) es un proyecto similar a éste que puede servirte de guia para los comandos que necesitarás).
+   - Si te sientes cómodo usando Git en la consola de comandos, puedes hacerlo (el tutorial [first-contributions](https://github.com/Unity-Educational-Formation/first-contributions) es un proyecto similar a éste que puede servirte de guia para los comandos que necesitarás).
    - Si usas [VS Code](https://code.visualstudio.com/ 'Visual Studio Code website'), trae integrado Git y te permite hacer lo que necesites directamente desde el editor.
    - Sin embargo, la forma más simple y fácil de seguir este tutorial es usar GitHub Desktop.
 
@@ -121,7 +113,7 @@ _Tiempo estimado: Menos de 30 minutos_.
 
 - El objetivo aquí es hacer una copia de éste proyecto para colocarlo en tu cuenta.
 - Un repositorio (repo) el nombre que se le da a un proyecto en GitHub y una bifurcación (fork) es una copia del mismo.
-- Asegúrate de estar en la [página principal](https://github.com/Syknapse/Contribute-To-This-Project 'https://github.com/Syknapse/Contribute-To-This-Project') de éste repositorio.
+- Asegúrate de estar en la [página principal](https://github.com/Unity-Billal-mesloub/Contribute-To-This-Project 'https://github.com/Unity-Billal-mesloub/Contribute-To-This-Project') de éste repositorio.
 
 | <ul><li>Haz click en el botón _Fork_ </li></ul> | ![Fork](/readme-only/fork.png "Haz click en 'Fork'") |
 | :---------------------------------------------- | ---------------------------------------------------: |
@@ -172,7 +164,7 @@ _Tiempo estimado: Menos de 30 minutos_.
 | :------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------: |
 
 
-- Haz creado una nueva rama separada de la rama 'master' (que es la principal).
+- Haz creado una nueva rama separada de la rama 'main' (que es la principal).
 - Para los próximos cambios asegúrate de estar trabajando en ésta rama. Arriba y al centro de GitHub Desktop (donde se lee _Current Branch_) podrás ver el nombre de la rama en la que estas ubicado.
 
 **NO trabajes en la rama `master`**
@@ -332,8 +324,7 @@ Te prometo tratar de revisar y unir los cambios tan pronto como me sea posible p
 
 - Vuelve en un tiempo para verificar que tus cambios se hayan unido.
 - Deberías recibir un email de GitHub cuando tus cambios hayan sido aprobados, si te han pedido cambios adicionales y si la Pull Request está finalmente unida a master y tu tarjeta ha sido añadida.
-- Si encuentras **útil** éste proyecto, por favor dale una :star: estrella :star: al inicio de la página y **twittea** al respecto para hacer correr la voz [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Contribute%20To%20This%20Project.%20An%20easy%20project%20for%20first-time%20contributors,%20with%20a%20full%20tutorial.%20By%20@Syknapse&url=https://github.com/Syknapse/Contribute-To-This-Project&hashtags=100DaysofCode 'Twittea este proyecto')
-- Puedes **seguirme** y estar en contacto en [Twitter](https://twitter.com/Syknapse '@Syknapse') o [usando cualquiera de estas otras opciones](https://syknapse.github.io/Syk-Houdeib/#contact 'Mi sección de contacto | Portfolio')
+- Si encuentras **útil** éste proyecto, por favor dale una :star: estrella :star: al inicio de la página y **twittea** al respecto para hacer correr la voz [![Tweet](https://github.com/Unity-Billal-mesloub/=https://github.com/Unity-Billal-mesloub/Contribute-To-This-Project&hashtags=100DaysofCode ' home')
 - Éste es un proyecto de código abierto, por lo que aparte de contribuir con tu tarjeta eres bienvenido a corregir errores, a proponer mejoras y a agregar funcionalidades. Abre un [issue](https://help.github.com/articles/creating-an-issue/ 'Mastering Issues | GitHub Guides') o envía una nueva [Pull Request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/ 'Creating a pull request from a fork | GitHub Help')
 - **Gracias por contribuir a éste proyecto**. Ahora puedes ir y tratar de contribuir a otros. Busca la etiqueta ![Good First Issue](https://user-images.githubusercontent.com/29199184/33852733-e23b7070-debb-11e7-907b-4e7a03aad436.png) para ver los issues orientados a principiantes.
 - También estoy buscando colaboradores para que me den una mano revisando y uniendo las solicitudes de extracción. Si te gustaría ganar conocimientos y práctica con Git, enviame un mensaje privado via Twitter.
@@ -344,18 +335,14 @@ Te prometo tratar de revisar y unir los cambios tan pronto como me sea posible p
 
 ### Agradecimientos
 
-Éste proyecto está fuertemente influenciado por el grandioso proyecto [first-contributions](https://github.com/Roshanjossey/first-contributions) de [Roshan Jossey](https://github.com/Roshanjossey) con su excelente tutorial.
-
-También está particularmente inspirado por la grandiosa comunidad alrededor de [#GoogleUdacityScholars](https://twitter.com/hashtag/GoogleUdacityScholars?src=hash) La beca Google: Desarrollo web Front-End, clase de 2017 Europa.
+Éste proyecto está fuertemente influenciado por el grandioso proyecto [first-contributions](https://github.com/Unity-Educational-Formation/first-contributions) de [Roshan Jossey](https://github.com/Unity-Educational-Formation) con su excelente tutorial.
 
 ### Licencias
 
-[MIT License](https://github.com/Syknapse/Contribute-To-This-Project/blob/master/LICENSE)
+[MIT License](https://github.com/Unity-Billal-mesloub/Contribute-To-This-Project/blob/master/LICENSE)
 
 ### Top 100 Contributors
 
 [![GitHub Contributors Image](https://contrib.rocks/image?repo=Syknapse/Contribute-To-This-Project)](https://github.com/Syknapse/Contribute-To-This-Project/graphs/contributors)
 
-[Volver al principio &uparrow;](#introducción)
 
-[twit]: https://twitter.com/intent/tweet?text=Contribute%20To%20This%20Project.%20An%20easy%20project%20for%20first-time%20contributors,%20with%20a%20full%20tutorial.%20By%20@Syknapse&url=https://github.com/Syknapse/Contribute-To-This-Project&hashtags=100DaysofCode 'Twittea este proyecto'
