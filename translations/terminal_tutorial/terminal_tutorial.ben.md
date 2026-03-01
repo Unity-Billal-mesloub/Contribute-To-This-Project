@@ -328,6 +328,5 @@ git push -u origin $Username-card
 
 ### রক্ষণাবেক্ষণকারী তথ্যঃ
 
-![GitHub Contributors Image](https://contrib.rocks/image?repo=Syknapse/Contribute-To-This-Project)
 
 
